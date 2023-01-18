@@ -1,0 +1,29 @@
+{
+	"name": "Jstris+ TETR.IO Soundpack",
+	"hold": "https://d-002.github.io/jstris-plus/tetrio/hold.wav",
+	"harddrop": "https://d-002.github.io/jstris-plus/tetrio/harddrop.wav",
+	"lock": "https://d-002.github.io/jstris-plus/tetrio/harddrop.wav",
+	"softdrop": "https://d-002.github.io/jstris-plus/tetrio/softdrop.wav",
+	"garbage": "https://d-002.github.io/jstris-plus/tetrio/garbage.wav",
+	"btb": "https://d-002.github.io/jstris-plus/tetrio/clear4.wav",
+	"land": "https://d-002.github.io/jstris-plus/tetrio/land.wav",
+	"move": "https://d-002.github.io/jstris-plus/tetrio/move.wav",
+	"died": "https://d-002.github.io/jstris-plus/tetrio/died.wav",
+	"ready": "https://d-002.github.io/jstris-plus/tetrio/ready.ogg",
+	"go": "https://d-002.github.io/jstris-plus/tetrio/go.ogg",
+	"golive": "https://d-002.github.io/jstris-plus/tetrio/go.ogg",
+	"scoring": {
+		"CLEAR1": "https://d-002.github.io/jstris-plus/tetrio/clear1.wav",
+		"CLEAR2": "https://d-002.github.io/jstris-plus/tetrio/clear2.wav",
+		"CLEAR3": "https://d-002.github.io/jstris-plus/tetrio/clear3.wav",
+		"CLEAR4": "https://d-002.github.io/jstris-plus/tetrio/clear4.ogg",
+		"CLEAR5": "https://d-002.github.io/jstris-plus/tetrio/clear4.ogg",
+		"TSPIN_MINI": "https://d-002.github.io/jstris-plus/tetrio/tspin.ogg",
+		"TSPIN": "https://d-002.github.io/jstris-plus/tetrio/tspin.ogg",
+		"TSPIN_MINI_SINGLE": "https://d-002.github.io/jstris-plus/tetrio/tspin.ogg",
+		"TSPIN_SINGLE": "https://d-002.github.io/jstris-plus/tetrio/tspin.ogg",
+		"TSPIN_DOUBLE": "https://d-002.github.io/jstris-plus/tetrio/tspin.ogg",
+		"TSPIN_TRIPLE": "https://d-002.github.io/jstris-plus/tetrio/tspin.ogg",
+		"PERFECT_CLEAR": "https://d-002.github.io/jstris-plus/tetrio/pc.wav"
+	}
+}
