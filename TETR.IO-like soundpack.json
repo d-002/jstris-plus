@@ -1,0 +1,33 @@
+{
+	"name": "Jstris+ TETR.IO Soundpack",
+	"hold": "https://d-002.github.io/jstris-plus/tetrio/hold.wav",
+	"rotate": "https://d-002.github.io/jstris-plus/tetrio/rotate.wav",
+	"success": "https://d-002.github.io/jstris-plus/tetrio/success.wav",
+	"harddrop": "https://d-002.github.io/jstris-plus/tetrio/harddrop.wav",
+	"lock": "https://d-002.github.io/jstris-plus/tetrio/harddrop.wav",
+	"softdrop": "https://d-002.github.io/jstris-plus/tetrio/softdrop.wav",
+	"garbage": "https://d-002.github.io/jstris-plus/tetrio/garbage.wav",
+	"btb": "https://d-002.github.io/jstris-plus/tetrio/clear4.wav",
+	"land": "https://d-002.github.io/jstris-plus/tetrio/land.wav",
+	"move": "https://d-002.github.io/jstris-plus/tetrio/move.wav",
+	"died": "https://d-002.github.io/jstris-plus/tetrio/died.wav",
+	"ready": "https://d-002.github.io/jstris-plus/tetrio/ready.ogg",
+	"go": "https://d-002.github.io/jstris-plus/tetrio/go.ogg",
+	"golive": "https://d-002.github.io/jstris-plus/tetrio/go.ogg",
+	"msg": "https://d-002.github.io/jstris-plus/tetrio/msg.wav",
+	"comboTones": [null, "https://d-002.github.io/jstris-plus/tetrio/combo_1.wav", "https://d-002.github.io/jstris-plus/tetrio/combo_2.wav", "https://d-002.github.io/jstris-plus/tetrio/combo_3.wav", "https://d-002.github.io/jstris-plus/tetrio/combo_4.wav", "https://d-002.github.io/jstris-plus/tetrio/combo_5.wav", "https://d-002.github.io/jstris-plus/tetrio/combo_6.wav", "https://d-002.github.io/jstris-plus/tetrio/combo_7.wav", "https://d-002.github.io/jstris-plus/tetrio/combo_8.wav", "https://d-002.github.io/jstris-plus/tetrio/combo_9.wav", "https://d-002.github.io/jstris-plus/tetrio/combo_10.wav", "https://d-002.github.io/jstris-plus/tetrio/combo_11.wav", "https://d-002.github.io/jstris-plus/tetrio/combo_12.wav", "https://d-002.github.io/jstris-plus/tetrio/combo_13.wav", "https://d-002.github.io/jstris-plus/tetrio/combo_14.wav", "https://d-002.github.io/jstris-plus/tetrio/combo_15.wav", "https://d-002.github.io/jstris-plus/tetrio/combo_16.wav"],
+	"scoring": {
+		"CLEAR1": "https://d-002.github.io/jstris-plus/tetrio/clear1.wav",
+		"CLEAR2": "https://d-002.github.io/jstris-plus/tetrio/clear1.wav",
+		"CLEAR3": "https://d-002.github.io/jstris-plus/tetrio/clear1.wav",
+		"CLEAR4": "https://d-002.github.io/jstris-plus/tetrio/clear4.ogg",
+		"CLEAR5": "https://d-002.github.io/jstris-plus/tetrio/clear5.ogg",
+		"TSPIN_MINI": "https://d-002.github.io/jstris-plus/tetrio/tspin.ogg",
+		"TSPIN": "https://d-002.github.io/jstris-plus/tetrio/tspin.ogg",
+		"TSPIN_MINI_SINGLE": "https://d-002.github.io/jstris-plus/tetrio/tspin.ogg",
+		"TSPIN_SINGLE": "https://d-002.github.io/jstris-plus/tetrio/tspin.ogg",
+		"TSPIN_DOUBLE": "https://d-002.github.io/jstris-plus/tetrio/tspin.ogg",
+		"TSPIN_TRIPLE": "https://d-002.github.io/jstris-plus/tetrio/tspin.ogg",
+		"PERFECT_CLEAR": "https://d-002.github.io/jstris-plus/tetrio/pc.wav"
+	}
+}
