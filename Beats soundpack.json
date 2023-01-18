@@ -1,0 +1,29 @@
+{
+	"name": "Drums Soundpack",
+	"hold": "https://d-002.github.io/jstris-plus/beats/hold.wav",
+	"harddrop": "https://d-002.github.io/jstris-plus/beats/harddrop.wav",
+	"lock": "https://d-002.github.io/jstris-plus/beats/harddrop.wav",
+	"softdrop": "https://d-002.github.io/jstris-plus/beats/softdrop.wav",
+	"garbage": "https://d-002.github.io/jstris-plus/beats/garbage.wav",
+	"btb": "https://d-002.github.io/jstris-plus/beats/clear4.wav",
+	"land": "https://d-002.github.io/jstris-plus/beats/land.wav",
+	"move": "https://d-002.github.io/jstris-plus/beats/move.wav",
+	"died": "https://d-002.github.io/jstris-plus/beats/died.wav",
+	"ready": "https://d-002.github.io/jstris-plus/beats/ready.ogg",
+	"go": "https://d-002.github.io/jstris-plus/beats/go.ogg",
+	"golive": "https://d-002.github.io/jstris-plus/beats/go.ogg",
+	"scoring": {
+		"CLEAR1": "https://d-002.github.io/jstris-plus/beats/clear1.wav",
+		"CLEAR2": "https://d-002.github.io/jstris-plus/beats/clear2.wav",
+		"CLEAR3": "https://d-002.github.io/jstris-plus/beats/clear3.wav",
+		"CLEAR4": "https://d-002.github.io/jstris-plus/beats/clear4.ogg",
+		"CLEAR5": "https://d-002.github.io/jstris-plus/beats/clear4.ogg",
+		"TSPIN_MINI": "https://d-002.github.io/jstris-plus/beats/tspin.ogg",
+		"TSPIN": "https://d-002.github.io/jstris-plus/beats/tspin.ogg",
+		"TSPIN_MINI_SINGLE": "https://d-002.github.io/jstris-plus/beats/tspin.ogg",
+		"TSPIN_SINGLE": "https://d-002.github.io/jstris-plus/beats/tspin.ogg",
+		"TSPIN_DOUBLE": "https://d-002.github.io/jstris-plus/beats/tspin.ogg",
+		"TSPIN_TRIPLE": "https://d-002.github.io/jstris-plus/beats/tspin.ogg",
+		"PERFECT_CLEAR": "https://d-002.github.io/jstris-plus/beats/pc.wav"
+	}
+}
